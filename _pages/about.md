@@ -7,24 +7,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
+My name is Chen Chen (陈晨), 
+I am currently an associate researcher at <a href="https://hzii.buaa.edu.cn" target="_blank">Hangzhou Innovation Insitute, Beihang University</a>. 
+I obtained my Master degree at <a href="https://ev.buaa.edu.cn" target="_blank">Beihang University</a>, I was supervised by <a href="https://shi.buaa.edu.cn/07382/en/index.htm" target="_blank">Prof. Dr. Jianwei Niu</a>, and co-supervisor is <a href="https://scse.buaa.edu.cn/info/1388/8172.htm" target="_blank"> Prof. Dr. Xuefeng Liu for my Bachelor thesis on Medical Image Analysis.
+I obtained my Bachelor degree at <a href="https://english.tyut.edu.cn" target="_blank">Taiyuan University of Technology</a>, majoring in Computer science and technology.
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+My current job description:
+1. Collaborative robot research and development(based on key projects in Zhejiang Province): leading software development and hardware integration.
+2. student guidance: 
+- collaboration with doctoral students to carry out research in the field of visual slam, based on NICE-SLAM; 
+- guide students to carry out research on LLM(Large Language Model) control with collaborative robots, to build a toy example of embodied artificial intelligence;
+- guide students to carry out research on medical image segmentation.
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+
+My current research interet is Medical Image Analysis, Visual SLAM, and LLM with Robot.
+
+## Education
+- *<font size=3>2019 - 2022</font>*<font size=3>, Bachelor of Engineering, Computer Science, Beihang University, China. </font>
+- *<font size=3>2015 - 2019</font>*<font size=3>, Bachelor of Engineering, Computer Science, Taiyuan University of Techonlogy, China. </font>
+
+## Awards
+- * 2018 China National Scholarship
+- * 2017 Scholarships from Alumni of Xiaoqing Guo and Weiou Zhou
+- * 2017 Meritoriours Winner of Mathematical Contest In Medeling(MCM)
+- * Volunteer for ShanXing 100 Charity Activity
+
+
+---
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hhQoIXhmr9DNlT_wos8ClOn-HmKrhWiB2HKR_WCBJDQ"></script>
