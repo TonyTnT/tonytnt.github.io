@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rob Williams"
+title                    : "Chen Chen (陈晨)"
 title_separator          : "-"
-name                     : &name "Rob Williams"
-description              : &description "Postdoc in Political Science"
+name                     : &name "Chen Chen"
+description              : &description "associate researcher at Hangzhou Innovation Insitute, Beihang University"
 url                      : https://tonytnt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tonytnt/tonytnt.github.io"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Chen Chen"
   avatar           : "profile.png"
-  bio              : "Engineer"
+  bio              : "Associate Researcher"
   location         : "Hangzhou, China"
   # employer         :
   # pubmed           :
