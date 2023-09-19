@@ -9,7 +9,7 @@ redirect_from:
 ---
 My name is Chen Chen (陈晨), 
 I am currently an associate researcher at <a href="https://hzii.buaa.edu.cn" target="_blank">Hangzhou Innovation Insitute, Beihang University</a>. 
-I obtained my Master degree at <a href="https://ev.buaa.edu.cn" target="_blank">Beihang University</a>, I was supervised by <a href="https://shi.buaa.edu.cn/07382/en/index.htm" target="_blank">Prof. Dr. Jianwei Niu</a>, and co-supervisor is <a href="https://scse.buaa.edu.cn/info/1388/8172.htm" target="_blank"> Prof. Dr. Xuefeng Liu for my Bachelor thesis on Medical Image Analysis.
+I obtained my Master degree at <a href="https://ev.buaa.edu.cn" target="_blank">Beihang University</a>, I was supervised by <a href="https://shi.buaa.edu.cn/07382/en/index.htm" target="_blank">Prof. Dr. Jianwei Niu</a>, and co-supervisor is <a href="https://scse.buaa.edu.cn/info/1388/8172.htm" target="_blank"> Prof. Dr. Xuefeng Liu</a> for my Bachelor thesis on Medical Image Analysis.
 I obtained my Bachelor degree at <a href="https://english.tyut.edu.cn" target="_blank">Taiyuan University of Technology</a>, majoring in Computer science and technology.
 
 My current job description:
@@ -31,6 +31,10 @@ My current research interet is Medical Image Analysis, Visual SLAM, and LLM with
 - * 2017 Scholarships from Alumni of Xiaoqing Guo and Weiou Zhou
 - * 2017 Meritoriours Winner of Mathematical Contest In Medeling(MCM)
 - * Volunteer for ShanXing 100 Charity Activity
+
+## Paper
+
+## Work Experience 
 
 
 ---

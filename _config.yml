@@ -92,7 +92,7 @@ author:
   # pubmed           :
   # orcid            : "http://orcid.org/0000-0001-9259-3883"
   googlescholar    : "https://scholar.google.com/citations?user=5lKm5ZMAAAAJ&hl=zh-CN"
-  email            : "chenx2ovo@buaa.edu.cn"
+  email            : "chenx2ovo@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   # bitbucket        :
@@ -214,14 +214,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _publications
   - scope:
       path: ""
