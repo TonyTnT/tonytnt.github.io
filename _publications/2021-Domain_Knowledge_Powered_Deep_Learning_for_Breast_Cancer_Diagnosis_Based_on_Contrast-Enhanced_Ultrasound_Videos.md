@@ -2,7 +2,7 @@
 title: "Domain Knowledge Powered Deep Learning for Breast Cancer Diagnosis Based on Contrast-Enhanced Ultrasound Videos"
 collection: publications
 permalink: /publication/2021-Domain_Knowledge_Powered_Deep_Learning_for_Breast_Cancer_Diagnosis_Based_on_Contrast-Enhanced_Ultrasound_Videos.md
-date: 2021-09
+date: 2021-05-07
 venue: 'IEEE TRANSACTIONS ON MEDICAL IMAGING'
 paperurl: '/files/pdf/research/Domain_Knowledge_Powered_Deep_Learning_for_Breast_Cancer_Diagnosis_Based_on_Contrast-Enhanced_Ultrasound_Videos.pdf'
 link: 'https://ieeexplore.ieee.org/document/9425559'
