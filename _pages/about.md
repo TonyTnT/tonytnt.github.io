@@ -9,8 +9,8 @@ redirect_from:
 ---
 My name is Chen Chen (陈晨), 
 I am currently an associate researcher at <a href="https://hzii.buaa.edu.cn" target="_blank">Hangzhou Innovation Insitute, Beihang University</a>. 
-I obtained my Master degree at <a href="https://ev.buaa.edu.cn" target="_blank">Beihang University</a>, I was supervised by <a href="https://shi.buaa.edu.cn/07382/en/index.htm" target="_blank">Prof. Dr. Jianwei Niu</a>, and co-supervisor is <a href="https://scse.buaa.edu.cn/info/1388/8172.htm" target="_blank"> Prof. Dr. Xuefeng Liu</a> for my Bachelor thesis on Medical Image Analysis.
-I obtained my Bachelor degree at <a href="https://english.tyut.edu.cn" target="_blank">Taiyuan University of Technology</a>, majoring in Computer science and technology.
+I obtained my MA.Eng at <a href="https://ev.buaa.edu.cn" target="_blank">Beihang University</a>, I was supervised by <a href="https://shi.buaa.edu.cn/07382/en/index.htm" target="_blank">Prof. Dr. Jianwei Niu</a>, and co-supervisor is <a href="https://scse.buaa.edu.cn/info/1388/8172.htm" target="_blank"> Prof. Dr. Xuefeng Liu</a> for my Bachelor thesis on Medical Image Analysis.
+I obtained my B.Eng. at <a href="https://english.tyut.edu.cn" target="_blank">Taiyuan University of Technology</a>, majoring in Computer science and technology.
 
 My current job description:
 1. Collaborative robot research and development(based on key projects in Zhejiang Province): leading software development and hardware integration.
@@ -23,8 +23,8 @@ My current job description:
 My current research interet is Medical Image Analysis, Visual SLAM, and LLM with Robot.
 
 ## Education
-- *<font size=3>2019 - 2022</font>*<font size=3>, Bachelor of Engineering, Computer Science, Beihang University, China. </font>
-- *<font size=3>2015 - 2019</font>*<font size=3>, Bachelor of Engineering, Computer Science, Taiyuan University of Techonlogy, China. </font>
+- *<font size=3>2019 - 2022</font>*<font size=3>, Master of Engineering, Computer Science, Beihang University, China. </font>
+- *<font size=3>2015 - 2019</font>*<font size=3>, Bachelor degree of Engineering, Computer Science, Taiyuan University of Techonlogy, China. </font>
 
 ## Awards
 - * 2018 China National Scholarship
@@ -33,8 +33,11 @@ My current research interet is Medical Image Analysis, Visual SLAM, and LLM with
 - * Volunteer for ShanXing 100 Charity Activity
 
 ## Paper
+- *<font size=3>2021.05</font><font size=3>Chen C, Wang Y, Niu J, et al. Domain knowledge powered deep learning for breast cancer diagnosis based on contrast-enhanced ultrasound videos[J]. IEEE Transactions on Medical Imaging, 2021, 40(9): 2439-2451.</font>
 
 ## Work Experience 
+- *<font size=3>2022.01 - Now</font>*<font size=3>, Associate Researcher, Beihang Hangzhou Innovation Insitute, Hangzhou. </font>
+- *<font size=3>2021.03 - 2021.05</font>*<font size=3>, Big Data Development Engineering Intern, Commercial Technology Department,Ocean Engine, Hangzhou. </font>
 
 
 ---
