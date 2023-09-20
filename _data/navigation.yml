@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-    
   - title: "Research"
     url: /research/
 
   - title: "Work Experience"
     url: /teaching/
+
+  - title: "Publications"
+    url: /publications/
 
   # - title: "Software"
   #   url: /software/
