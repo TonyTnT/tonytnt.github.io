@@ -69,8 +69,8 @@ author_profile: true
       <a href="https://ieeexplore.ieee.org/document/9425559" target="_blank">IEEE TMI</a>
       <br>
       1. We find two specific diagnostic patterns radiologists generally follow in temporal and feature.<br>
-      2. Based on two diagnostic patterns of radiologists, we design two modules (DKG-TAM and DKG-CAM) to incorporate domain knowledge into a deep learning model.</br>
-      3. We validate our model on Breast-CEUS dataset, and the result demonstrates that radiologists’ domain knowledge can help in improving the performance of neural networks.</br>
+      2. Based on two diagnostic patterns of radiologists, we design two modules (DKG-TAM and DKG-CAM) to incorporate domain knowledge into a deep learning model.<br>
+      3. We validate our model on Breast-CEUS dataset, and the result demonstrates that radiologists’ domain knowledge can help in improving the performance of neural networks.<br>
     </td>
 </table>
 <hr>

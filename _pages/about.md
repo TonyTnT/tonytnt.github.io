@@ -34,10 +34,10 @@ My current research interet is Medical Image Analysis, Visual SLAM, and LLM with
 - *<font size=3>2021.03 - 2021.05</font>*<font size=3>, Big Data Development Engineering Intern, Commercial Technology Department,Ocean Engine, Hangzhou. </font>
 
 ## Awards
-- * 2018 China National Scholarship
-- * 2017 Scholarships from Alumni of Xiaoqing Guo and Weiou Zhou
-- * 2017 Meritoriours Winner of Mathematical Contest In Medeling(MCM)
-- * Volunteer for ShanXing 100 Charity Activity
+- 2018 China National Scholarship
+- 2017 Scholarships from Alumni of Xiaoqing Guo and Weiou Zhou
+- 2017 Meritoriours Winner of Mathematical Contest In Medeling(MCM)
+- Volunteer for ShanXing 100 Charity Activity
 
 
 ---
