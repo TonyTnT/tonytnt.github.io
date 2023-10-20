@@ -9,7 +9,7 @@ redirect_from:
 ---
 My name is Chen Chen (陈晨), 
 I am currently an associate researcher at <a href="https://hzii.buaa.edu.cn" target="_blank">Hangzhou Innovation Insitute, Beihang University</a>. 
-I obtained my MA.Eng at <a href="https://ev.buaa.edu.cn" target="_blank">Beihang University</a>, I was supervised by <a href="https://shi.buaa.edu.cn/07382/en/index.htm" target="_blank">Prof. Dr. Jianwei Niu</a>, and co-supervisor is <a href="https://scse.buaa.edu.cn/info/1388/8172.htm" target="_blank"> Prof. Dr. Xuefeng Liu</a> for my Bachelor thesis on Medical Image Analysis.
+I received my MA.Eng from Computer Science and Engineering at <a href="https://ev.buaa.edu.cn" target="_blank">Beihang University</a>, advised by <a href="https://shi.buaa.edu.cn/07382/en/index.htm" target="_blank">Prof. Dr. Jianwei Niu</a>, and <a href="https://scse.buaa.edu.cn/info/1388/8172.htm" target="_blank"> Prof. Dr. Xuefeng Liu</a> for my Bachelor thesis on Medical Image Analysis.
 I obtained my B.Eng. at <a href="https://english.tyut.edu.cn" target="_blank">Taiyuan University of Technology</a>, majoring in Computer science and technology.
 
 My current job description:
@@ -26,14 +26,21 @@ My current research interet is Medical Image Analysis, Visual SLAM, and LLM with
 - *<font size=3>2019 - 2022</font>*<font size=3>, Master of Engineering, Computer Science, Beihang University, China. </font>
 - *<font size=3>2015 - 2019</font>*<font size=3>, Bachelor degree of Engineering, Computer Science, Taiyuan University of Techonlogy, China. </font>
 
-## Paper
-- <font size=3>Xiaozheng Xie, </font>**<strong>Chen Chen(co-first author)</strong>**<font size=3>, Xuefeng Liu, Yong Wang, Rui Wang, and Jianwei Niu. IMAN: An Iterative Mutual-Aid Network for Breast Lesion Segmentation on Multi-modal Ultrasound Images[C]. 2023 IEEE International Conference on Bioinformatics and Biomedicine. IEEE, 2023.</font>
-
-- **<font size=3>Chen Chen</font>**<font size=3>, Wang Yong, Niu Jianwei, et al. Domain knowledge powered deep learning for breast cancer diagnosis based on contrast-enhanced ultrasound videos[J]. IEEE Transactions on Medical Imaging, 2021, 40(9): 2439-2451.</font>
 
 ## Work Experience 
 - *<font size=3>2022.01 - Now</font>*<font size=3>, Associate Researcher, Beihang Hangzhou Innovation Insitute, Hangzhou. </font>
 - *<font size=3>2021.03 - 2021.05</font>*<font size=3>, Big Data Development Engineering Intern, Commercial Technology Department,Ocean Engine, Hangzhou. </font>
+
+
+## Paper
+- <font size=3>Xiaozheng Xie, <strong>Chen Chen(co-first author)</strong>, Xuefeng Liu, Yong Wang, Rui Wang, and Jianwei Niu. IMAN: An Iterative Mutual-Aid Network for Breast Lesion Segmentation on Multi-modal Ultrasound Images[C]. 2023 IEEE International Conference on Bioinformatics and Biomedicine. IEEE, 2023.</font>
+
+- **<font size=3>Chen Chen</font>**<font size=3>, Wang Yong, Niu Jianwei, et al. Domain knowledge powered deep learning for breast cancer diagnosis based on contrast-enhanced ultrasound videos[J]. IEEE Transactions on Medical Imaging, 2021, 40(9): 2439-2451.</font>
+
+## Patent
+- <a herf="https://patents.google.com/patent/CN113362329B/zh?oq=CN113362329B">CN113362329A 病灶检测模型的训练方法及识别图像中的病灶的方法</a>
+
+- <a herf="https://patents.google.com/patent/CN112381164A/zh?oq=CN112381164">CN112381164A 一种基于多分支注意力机制的超声图像分类方法和装置</a>
 
 ## Awards
 - 2018 China National Scholarship
