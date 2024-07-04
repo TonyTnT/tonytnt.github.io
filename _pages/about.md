@@ -13,18 +13,27 @@ I received my MA.Eng from Computer Science and Engineering at <a href="https://e
 I obtained my B.Eng. at <a href="https://english.tyut.edu.cn" target="_blank">Taiyuan University of Technology</a>, majoring in Computer science and technology.
 
 My current job description:
-1. Collaborative robot research and development(based on key projects in Zhejiang Province): leading software development and hardware integration.
-2. student guidance: 
+1. Self-developed differential mobile robot: 
+- Responsible for hardware selection, ROS package development and migration, CAN communication with motor servos, multi-sensor fusion for obstacle avoidance, and ROS DDS middleware communication parameter configuration.
+- Developed web-based robot control software, featuring a Vue-based frontend and a NestJS-based backend, encapsulating ROS node topics to enable rviz functionality on the web interface.
+
+2. Indoor collaborative robot research(based on key projects in Zhejiang Province): 
+- Debugging of self-developed quad-axis SCARA arms.
+- Design and construct workflow of the LLM-SegDet-Chroma, to achieve LLM control collaborative robots(fully self-developed SCARA arm with mobile robot) for ineraction with objets indoor environment.
+- Deploying deep learning algorithms(YOLO) on domestic embedded boards(Rockchip RK3588), utilizing edge-side NPUs.
+- Overseeing project progress and aligning monthly with participating universities and enterprises.
+
+3. student guidance: 
 - collaboration with doctoral students to carry out research in the field of visual slam, based on NICE-SLAM; 
-- guide students to carry out research on LLM(Large Language Model) control with collaborative robots, to build a toy example of embodied artificial intelligence;
+- guide students to carry out research on LLM(Large Language Model) control with collaborative robots, to build toy examples of embodied artificial intelligence;
 - guide students to carry out research on medical image segmentation.
 
 
-My current research interet is Medical Image Analysis, Visual SLAM, and LLM with Robot.
+My current research interet is Medical Image Analysis, and LLM with Robot.
 
 ## Education
 - *<font size=3>2019 - 2022</font>*<font size=3>, Master of Engineering, Computer Science, Beihang University, China. </font>
-- *<font size=3>2015 - 2019</font>*<font size=3>, Bachelor degree of Engineering, Computer Science, Taiyuan University of Techonlogy, China. </font>
+- *<font size=3>2015 - 2019</font>*<font size=3>, Bachelor of Engineering, Computer Science, Taiyuan University of Techonlogy, China. </font>
 
 
 ## Work Experience 
@@ -33,6 +42,8 @@ My current research interet is Medical Image Analysis, Visual SLAM, and LLM with
 
 
 ## Paper
+- <font size=3>Ziheng Xu, Jianwei Niu, Qingfeng Li, Tao Ren, and <strong>Chen Chen</strong>. IMAN: An Iterative Mutual-Aid Network for Breast Lesion Segmentation on Multi-modal Ultrasound Images[C]. 2024 2024 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2024.</font>
+
 - <font size=3>Xiaozheng Xie, <strong>Chen Chen(co-first author)</strong>, Xuefeng Liu, Yong Wang, Rui Wang, and Jianwei Niu. IMAN: An Iterative Mutual-Aid Network for Breast Lesion Segmentation on Multi-modal Ultrasound Images[C]. 2023 IEEE International Conference on Bioinformatics and Biomedicine. IEEE, 2023.</font>
 
 - **<font size=3>Chen Chen</font>**<font size=3>, Wang Yong, Niu Jianwei, et al. Domain knowledge powered deep learning for breast cancer diagnosis based on contrast-enhanced ultrasound videos[J]. IEEE Transactions on Medical Imaging, 2021, 40(9): 2439-2451.</font>
@@ -46,7 +57,7 @@ My current research interet is Medical Image Analysis, Visual SLAM, and LLM with
 - 2018 China National Scholarship
 - 2017 President Scholarship
 - 2017 Scholarships from Alumni of Xiaoqing Guo and Weiou Zhou
-- 2017 Meritoriours Winner of Mathematical Contest In Medeling(MCM)
+- 2017 Meritorious Winner of Mathematical Contest In Medeling(MCM)
 - Volunteer for ShanXing 100 Charity Activity
 
 
