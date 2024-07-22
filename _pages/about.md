@@ -41,17 +41,44 @@ My current research interet is Medical Image Analysis, and LLM with Robot.
 - *<font size=3>2021.03 - 2021.05</font>*<font size=3>, Big Data Development Engineering Intern, Commercial Technology Department,Ocean Engine, Hangzhou. </font>
 
 
-## Paper
-- <font size=3>Ziheng Xu, Jianwei Niu, Qingfeng Li, Tao Ren, and <strong>Chen Chen</strong>. IMAN: An Iterative Mutual-Aid Network for Breast Lesion Segmentation on Multi-modal Ultrasound Images[C]. 2024 2024 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2024.</font>
+## Publications
 
-- <font size=3>Xiaozheng Xie, <strong>Chen Chen(co-first author)</strong>, Xuefeng Liu, Yong Wang, Rui Wang, and Jianwei Niu. IMAN: An Iterative Mutual-Aid Network for Breast Lesion Segmentation on Multi-modal Ultrasound Images[C]. 2023 IEEE International Conference on Bioinformatics and Biomedicine. IEEE, 2023.</font>
+<div class='paper-box'><div class='paper-box-image'><img src='/images/publications/nidslam.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 
-- **<font size=3>Chen Chen</font>**<font size=3>, Wang Yong, Niu Jianwei, et al. Domain knowledge powered deep learning for breast cancer diagnosis based on contrast-enhanced ultrasound videos[J]. IEEE Transactions on Medical Imaging, 2021, 40(9): 2439-2451.</font>
+NID-SLAM: Neural Implicit Representation-based RGB-D SLAM In Dynamic Environments, Ziheng Xu, Jianwei Niu, Qingfeng Li, Tao Ren, **Chen Chen**.
 
-## Patent
+**ICME, 2024** 
+<!-- - We enable robust novel view synthesis from casually captured in-the-wild images. -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='https://pengsongyou.github.io/media/teaser_otg3.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+IMAN: An Iterative Mutual-Aid Network for Breast Lesion Segmentation on Multi-modal Ultrasound Images, Xiaozheng Xie, **Chen Chen\***, Xuefeng Liu, Yong Wang, Rui Wang, and Jianwei Niu.
+
+**BIBM, 2023** 
+<!-- - We enable robust novel view synthesis from casually captured in-the-wild images. -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='/images/publications/domainknowledge.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+Domain knowledge powered deep learning for breast cancer diagnosis based on contrast-enhanced ultrasound videos, **Chen Chen**, Wang Yong, Niu Jianwei.
+
+**IEEE Transactions on Medical Imaging** , 2021, 40(9): 2439-2451.
+<!-- - We enable robust novel view synthesis from casually captured in-the-wild images. -->
+</div>
+</div>
+
+
+
+<!-- ## Patent
 - <a herf="https://patents.google.com/patent/CN113362329B/zh?oq=CN113362329B">CN113362329A 病灶检测模型的训练方法及识别图像中的病灶的方法</a>
 
-- <a herf="https://patents.google.com/patent/CN112381164A/zh?oq=CN112381164">CN112381164A 一种基于多分支注意力机制的超声图像分类方法和装置</a>
+- <a herf="https://patents.google.com/patent/CN112381164A/zh?oq=CN112381164">CN112381164A 一种基于多分支注意力机制的超声图像分类方法和装置</a> -->
 
 ## Awards
 - 2018 China National Scholarship

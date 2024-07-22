@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 mastodon:
-  username               : "fosstodon.org/@jayrobw"
+  # username               : "fosstodon.org/@jayrobw"
 twitter:
   username               : 
 facebook:
@@ -93,13 +93,14 @@ author:
   # orcid            : "http://orcid.org/0000-0001-9259-3883"
   googlescholar    : "https://scholar.google.com/citations?user=5lKm5ZMAAAAJ&hl=zh-CN"
   email            : "chenx2ovo@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # cv              : "files/pdf/Zh_Resume.pdf"
+  cv(Zh)          : "files/pdf/Zh_Resume.pdf"
   # bitbucket        :
-  codepen          :
-  dribbble         :
+  # codepen          :
+  # dribbble         :
   # flickr           :
-  facebook         :
+  # facebook         :
   # foursquare       :
   github           : "tonyTnT"
   google_plus      :
@@ -111,12 +112,12 @@ author:
   # mastodon         : "fosstodon.org/@jayrobw"
   # pinterest        :
   # soundcloud       :
-  stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
+  # stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
   # steam            :
   # tumblr           :
-  twitter          : 
+  # twitter          : 
   # vine             :
-  weibo            :
+  # weibo            :
   # xing             :
   # youtube          :
   # wikipedia        :
