@@ -46,9 +46,9 @@ My current research interet is Medical Image Analysis, and LLM with Robot.
 <div class='paper-box'><div class='paper-box-image'><img src='/images/publications/nidslam.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-NID-SLAM: Neural Implicit Representation-based RGB-D SLAM In Dynamic Environments, Ziheng Xu, Jianwei Niu, Qingfeng Li, Tao Ren, **Chen Chen**, Xinlei Zhang, Haochen Zhao.
+NID-SLAM: Neural Implicit Representation-based RGB-D SLAM In Dynamic Environments, Ziheng Xu, Jianwei Niu, Qingfeng Li, Tao Ren, **Chen Chen**.
 
-**KSEM, 2024** 
+**ICME, 2024** 
 <!-- - We enable robust novel view synthesis from casually captured in-the-wild images. -->
 </div>
 </div>
@@ -57,9 +57,9 @@ NID-SLAM: Neural Implicit Representation-based RGB-D SLAM In Dynamic Environment
 <div class='paper-box'><div class='paper-box-image'><img src='/images/publications/nidslam.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-L2R-Nav: A Large Language Model-Enhanced Framework for Robotic Navigation, Xiaoze Wu, Qingfeng Li, **Chen Chen**.
+L2R-Nav: A Large Language Model-Enhanced Framework for Robotic Navigation, Xiaoze Wu, Qingfeng Li, **Chen Chen**, Xinlei Zhang, Haochen Zhao.
 
-**ICME, 2024** 
+**KSEM, 2024** 
 <!-- - We enable robust novel view synthesis from casually captured in-the-wild images. -->
 </div>
 </div>
@@ -93,4 +93,3 @@ Domain knowledge powered deep learning for breast cancer diagnosis based on cont
 - Volunteer for ShanXing 100 Charity Activity
 
 
----
