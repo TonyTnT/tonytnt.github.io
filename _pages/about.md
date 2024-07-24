@@ -46,17 +46,28 @@ My current research interet is Medical Image Analysis, and LLM with Robot.
 <div class='paper-box'><div class='paper-box-image'><img src='/images/publications/nidslam.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-NID-SLAM: Neural Implicit Representation-based RGB-D SLAM In Dynamic Environments, Ziheng Xu, Jianwei Niu, Qingfeng Li, Tao Ren, **Chen Chen**.
+NID-SLAM: Neural Implicit Representation-based RGB-D SLAM In Dynamic Environments, Ziheng Xu, Jianwei Niu, Qingfeng Li, Tao Ren, **Chen Chen**, Xinlei Zhang, Haochen Zhao.
+
+**KSEM, 2024** 
+<!-- - We enable robust novel view synthesis from casually captured in-the-wild images. -->
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><img src='/images/publications/nidslam.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+L2R-Nav: A Large Language Model-Enhanced Framework for Robotic Navigation, Xiaoze Wu, Qingfeng Li, **Chen Chen**.
 
 **ICME, 2024** 
 <!-- - We enable robust novel view synthesis from casually captured in-the-wild images. -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='/images/publications/iman_arch.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='/images/publications/l2r_arch.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-IMAN: An Iterative Mutual-Aid Network for Breast Lesion Segmentation on Multi-modal Ultrasound Images, Xiaozheng Xie, **Chen Chen\***, Xuefeng Liu, Yong Wang, Rui Wang, and Jianwei Niu.
+IMAN: An Iterative Mutual-Aid Network for Breast Lesion Segmentation on Multi-modal Ultrasound Images, Xiaozheng Xie, **Chen Chen(co-first author)**, Xuefeng Liu, Yong Wang, Rui Wang, and Jianwei Niu.
 
 **BIBM, 2023** 
 <!-- - We enable robust novel view synthesis from casually captured in-the-wild images. -->
