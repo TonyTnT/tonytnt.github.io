@@ -53,7 +53,7 @@ NID-SLAM: Neural Implicit Representation-based RGB-D SLAM In Dynamic Environment
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='https://pengsongyou.github.io/media/teaser_otg3.jpg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='/images/publications/iman_arch.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 IMAN: An Iterative Mutual-Aid Network for Breast Lesion Segmentation on Multi-modal Ultrasound Images, Xiaozheng Xie, **Chen Chen\***, Xuefeng Liu, Yong Wang, Rui Wang, and Jianwei Niu.
@@ -69,16 +69,10 @@ IMAN: An Iterative Mutual-Aid Network for Breast Lesion Segmentation on Multi-mo
 Domain knowledge powered deep learning for breast cancer diagnosis based on contrast-enhanced ultrasound videos, **Chen Chen**, Wang Yong, Niu Jianwei.
 
 **IEEE Transactions on Medical Imaging** , 2021, 40(9): 2439-2451.
-<!-- - We enable robust novel view synthesis from casually captured in-the-wild images. -->
+
 </div>
 </div>
 
-
-
-<!-- ## Patent
-- <a herf="https://patents.google.com/patent/CN113362329B/zh?oq=CN113362329B">CN113362329A 病灶检测模型的训练方法及识别图像中的病灶的方法</a>
-
-- <a herf="https://patents.google.com/patent/CN112381164A/zh?oq=CN112381164">CN112381164A 一种基于多分支注意力机制的超声图像分类方法和装置</a> -->
 
 ## Awards
 - 2018 China National Scholarship
@@ -89,4 +83,3 @@ Domain knowledge powered deep learning for breast cancer diagnosis based on cont
 
 
 ---
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=n&d=hhQoIXhmr9DNlT_wos8ClOn-HmKrhWiB2HKR_WCBJDQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
